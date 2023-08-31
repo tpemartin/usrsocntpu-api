@@ -7,3 +7,13 @@
 ##  story
 
   * `/story/{story_id}/story.json`
+
+## stories
+
+### latest stories
+
+  * `/stories/latest.json`
+
+### yearly stories
+
+  * `/stories/year/{year}/stories.json`
