@@ -16,4 +16,4 @@
 
 ### yearly stories
 
-  * `/stories/year/{year}/stories.json`
+  * `/stories/{year}/stories.json`
