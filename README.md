@@ -6,7 +6,7 @@
 
 ##  story
 
-  * `/story/{story_id}/story.json`
+  * `/story/{story_year}/{story_id}/story.json`
 
 ## stories
 
